@@ -2,9 +2,9 @@
 
 I trade **NQ & ES futures** and build my own tools. I run **Algo8 Trading** — daily futures lessons, levels, and recaps for prop-firm traders — and I'm open-sourcing the tools I trade with.
 
-## ⟡ HELIX TERM — my open-source charting terminal
+## ⟡ Vitrine Terminal — my open-source charting terminal
 
-**[github.com/algo8-byte/helix-term](https://github.com/algo8-byte/helix-term)**
+**[github.com/algo8-byte/vitrine-terminal](https://github.com/algo8-byte/vitrine-terminal)**
 
 A dark, instrument-grade charting terminal / dashboard for futures traders. Free to download, run yourself, and build on — MIT licensed.
 
