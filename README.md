@@ -6,7 +6,7 @@ I trade **NQ & ES futures** and build my own tools. I run **Algo8 Trading** — 
 
 **[github.com/algo8-byte/vitrine-terminal](https://github.com/algo8-byte/vitrine-terminal)**
 
-A dark, instrument-grade charting terminal / dashboard for futures traders. Free to download, run yourself, and build on — MIT licensed.
+A dark, instrument-grade charting terminal / dashboard for futures traders. Free to download, run yourself, and build on — AGPLv3 licensed (credit required, derivatives stay open source).
 
 - Deep Field cockpit UI — calm dark surfaces, teal = up, coral = down, amber = attention
 - Built for NQ / ES futures workflows
